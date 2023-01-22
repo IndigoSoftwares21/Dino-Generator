@@ -7,4 +7,4 @@
 #### To use, go to the bing image search api and generate your own api key, create a file .env and add the below line
 #### API_KEY=your_api_key
 #### to run go to your cmd and run
-#### npm nodemon run-dev
+#### nodemon index.js
